@@ -21,4 +21,9 @@ p {
 
 #name {
     font-size: 3em;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
